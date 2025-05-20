@@ -12,7 +12,8 @@ A simple yet powerful Vue.js app that translates text using MyMemory API with fa
 - 🌙 Dark mode layout and clean UI
 
 ## 🛠️ Project Setup
-
+###Deployment URL On Vercel :
+https://translate-app-eight-tan.vercel.app/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/zatchone/Translate-app.git
